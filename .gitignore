@@ -1,0 +1,50 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+build/
+dist/
+out/
+
+# Environment files
+.env*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+
+# TypeScript configuration
+tsconfig.json
+tsconfig.tsbuildinfo
+
+# Testing
+test/
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.bak
+*.bkp
+*.swp
+*.swo
+*.swn
