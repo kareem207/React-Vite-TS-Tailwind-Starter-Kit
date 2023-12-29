@@ -14,6 +14,12 @@ Welcome to the React-Vite-TSX-Tailwind Starter Kit! This template is designed to
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
+## Show Your Support
+If you find this starter kit helpful, please consider giving it a star on GitHub. Your support helps motivate me to continue maintaining and improving this project!
+
+🌟 [Star us on GitHub](https://github.com/kareem207/React-Vite-TS-Tailwind-Starter-Kit)
+
+
 ## Customizing Your Project:
 - Update the `tailwind.config.js` to tailor the Tailwind setup to your project's needs.
 - Modify the `tsconfig.json` for any TypeScript-specific configurations.
